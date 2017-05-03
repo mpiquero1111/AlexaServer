@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kenji776/AlexaServer1.git"
+    "url": "git+https://github.com/mpiquero7164/AlexaServer.git"
   },
   "keywords": [
     "alexa",
@@ -21,10 +21,10 @@
     "server",
     "echo"
   ],
-  "author": "Daniel Llewellyn",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kenji776/AlexaServer1/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Kenji776/AlexaServer1#readme"
+  "homepage": ""
 }
