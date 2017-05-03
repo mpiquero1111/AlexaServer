@@ -2,7 +2,7 @@
   "name": "alexaserver",
   "version": "1.0.0",
   "description": "Sample Alexa Server Project",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "alexa-app-server": "^2.2.4"
   },
